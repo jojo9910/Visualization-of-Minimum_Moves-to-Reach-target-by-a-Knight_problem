@@ -1,0 +1,35 @@
+
+#model{
+text-align: center;
+}
+.BoX{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    margin: 0 1px;
+}
+h2{
+	text-align: center;
+}
+.source{
+background-color: black;
+}
+.desti{
+background-color: red;
+}
+.button_padding{
+   		line-height: 1.3333;
+   		font-size: 25px;
+   		padding:10px;
+   		margin: 4px;
+   		border: none;
+   		display: inline-block;
+   		border-radius: 6px;
+   		background-color: steelblue;
+   		overflow: visible;
+   		text-transform: uppercase;
+}
+.button_s{
+padding: 6px;
+}
